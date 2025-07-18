@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy as sp
 import sklearn
-import mglearn
 from sklearn.datasets import load_iris
 import sklearn.model_selection
 
